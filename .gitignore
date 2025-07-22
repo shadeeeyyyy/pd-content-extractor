@@ -33,13 +33,6 @@ ENV/
 *.swo
 *~
 
-output/
-extracted_images/
-extracted_text/
-
-sample_pdf/
-*.pdf
-
 .DS_Store
 .DS_Store?
 ._*
@@ -49,10 +42,6 @@ ehthumbs.db
 Thumbs.db
 
 *.log
-
-.pytest_cache/
-.coverage
-htmlcov/
 
 *.tmp
 *.temp

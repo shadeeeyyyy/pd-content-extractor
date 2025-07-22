@@ -1,0 +1,18 @@
+{
+  "timestamp": "2025-07-22T16:10:20.470987",
+  "scores": {
+    "text_extraction_score": 100,
+    "image_extraction_score": 100,
+    "structure_accuracy_score": 50,
+    "overall_score": 85.0,
+    "issues": [
+      "Structure Accuracy: 5 items found in 'UNSORTED' section."
+    ]
+  },
+  "status": "PASS",
+  "recommendations": [
+    "Structural organization is not perfect. Review sectioning logic or expected structure.",
+    "Specific issues identified:",
+    "- Structure Accuracy: 5 items found in 'UNSORTED' section."
+  ]
+}
